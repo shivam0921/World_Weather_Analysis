@@ -12,3 +12,7 @@ This analysis is performed for tester to perform analyiss on the different aspec
 ### Weather Travel Map
 
 ![WeatherPy_travel_map.png](https://github.com/shivam0921/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
+
+### Weather Travel Map Marks
+
+![WeatherPy_travel_map_markers.png](https://github.com/shivam0921/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
