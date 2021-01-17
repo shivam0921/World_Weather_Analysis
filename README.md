@@ -6,5 +6,9 @@ This analysis is performed for tester to perform analyiss on the different aspec
 
 ## Analysis
 
-# Weather Vacation Map
+### Weather Vacation Map
 ![WeatherPy_vacation_map.png](https://github.com/shivam0921/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
+
+### Weather Travel Map
+
+![WeatherPy_travel_map.png](https://github.com/shivam0921/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
